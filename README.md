@@ -20,7 +20,7 @@ This project focuses on predicting crop yields based on various agricultural fac
 
 **Outcome:**
 
-The project's outcome revealed that ensemble methods such as "Random Forest" and "Bagging Regressor" achieve the highest accuracy (R-squared score) among all the models, with approximately 98.56% accuracy. These models can be valuable tools for farmers and agricultural experts to optimize crop production and resource allocation. 
+The project's outcome revealed that ensemble methods such as "Random Forest" and "Bagging Regressor" achieve the highest accuracy (R-squared score) among all the models, with approximately 98.59% accuracy. These models can be valuable tools for farmers and agricultural experts to optimize crop production and resource allocation. 
 
 The "Gradient Boost" and "XGBoost" models also demonstrate good performance, with R-squared scores of approximately 83.11% and 97.33%, respectively.
 
