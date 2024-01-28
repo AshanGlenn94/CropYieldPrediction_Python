@@ -30,6 +30,9 @@ The "Linear Regression" model performs the least effectively among the models, w
 
 The "KNN" (K-Nearest Neighbors) model exhibits lower accuracy compared to the other models, with an R-squared score of approximately 28.90%. KNN may not be well-suited for this dataset.
 
+![image](https://github.com/AshanGlenn94/CropYieldPrediction_Python/assets/72578388/66b01158-b0bd-4c80-a344-3df9c2f27fa8)
+
+
 **Impact:**
 
 By accurately predicting crop yields, this project can assist in making data-driven decisions in agriculture, leading to increased productivity and reduced resource wastage. It provides a valuable tool for farmers and stakeholders in the agricultural sector to make informed choices and optimize crop production.
