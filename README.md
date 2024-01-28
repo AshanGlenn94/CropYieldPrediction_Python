@@ -1,4 +1,4 @@
-# CropYieldPrediction - 98.59% Accuracy
+# Crop Yield Prediction - 98.59% Accuracy
 
 **Description:**
 
